@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/jerry/st'
+let g:netrw_dirhist_9='/home/jerry/cpp'
+let g:netrw_dirhist_8='/home/jerry/.dwm'
+let g:netrw_dirhist_7='/home/jerry/dwm'
+let g:netrw_dirhist_6='/home/jerry/.config/terminator'
+let g:netrw_dirhist_5='/home/jerry/.zsh'
+let g:netrw_dirhist_4='/home/jerry/.config/nvim'
+let g:netrw_dirhist_3='/home/jerry/python/flask/xey_system'
+let g:netrw_dirhist_2='/home/jerry/.local/share/fcitx5/rime'
+let g:netrw_dirhist_1='/home/jerry/.config/polybar'
